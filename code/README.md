@@ -24,9 +24,6 @@ We have used the following 3rd party libraries in our code:
 * `scipy`
 
 
-**Note:** Since we created these code files on Google Colab, we were provided by a lot of these machine learning libraries by default. So if you are executing the code on Colab, you won't need to install these libraries. Any additional library that is not present in colab's default environment, code for installing such libraries has been added in the notebook itself. For e.g. `gensim` package is not provided by default. So we have added the code to install gensim, e.g. `!pip install gensim` in the notebook itself.
-
-
 ## Instructions
 
 * To run this code on Google Colab:
@@ -36,8 +33,6 @@ We have used the following 3rd party libraries in our code:
 3. Upload the 3 ipynb files to google colab
 4. Upload the dataset to your google drive in a folder called "dataset"
 5. Execute the notebook cell by cell.
-
-Note: If you face any path error while executing a cell, it may be because your "dataset" folder is not in the path "gdrive/My Drive" . So please keep the folder in this base path or change the path in the notebook cell accordingly.
 
 
 ## References
