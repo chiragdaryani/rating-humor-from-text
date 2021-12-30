@@ -1,6 +1,6 @@
 # Towards an Automated System for Rating Humor Content in Textual Documents
 
-### Task Description:
+## Task Description:
 
 We are attempting the SemEval-2020 Task 7 (Assessing Humor in Edited News Headlines) Subtask 1 . 
 
@@ -9,7 +9,7 @@ In this task, we try to predict the mean humor rating for news articles that wer
 
 https://competitions.codalab.org/competitions/20970#learn_the_details-overview
 
-### Description about the Dataset
+## Description about the Dataset
 
 We will be using the dataset called **Humicroedit** which was provided by the competition organizers. It was created by taking news headlines and making micro-edits i.e. replacing one or two words in the headline text in order to introduce humor in the news content. 
 
