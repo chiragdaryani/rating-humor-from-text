@@ -53,3 +53,22 @@ We have used the following 3rd party libraries in our code:
 3. Upload the 3 ipynb files to google colab
 4. Upload the dataset to your google drive in a folder called "dataset"
 5. Execute the notebook cell by cell.
+
+## References
+
+https://stackoverflow.com/questions/14007545/python-regex-instantly-replace-groups
+
+https://stackoverflow.com/a/5843547/4084039
+
+https://stackoverflow.com/a/47091490/4084039
+
+https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663
+
+https://github.com/n-hossain/semeval-2020-task-7-humicroedit
+
+https://github.com/cooper62498/SI630_Final/blob/master/cselig_si630_final_humor_detection.ipynb
+
+https://github.com/JackyLin97/2020_NLP_Funniness_Estimation-PyTorch/blob/master/subtask-1/code/Funniness_Estimation.ipynb
+
+https://github.com/leahannah/uniTuebingenCL/blob/master/humor_regression.py
+
