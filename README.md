@@ -27,7 +27,6 @@ This complete dataset for the task can be downloaded from [this website](https:/
 
 * `Models_word2vec_features.ipynb` : All Machine learning models built on Word2vec features.
 
-**All the jupyter notebooks mentioned above were created on Google Colab.**
 
 
 ## Dependencies
