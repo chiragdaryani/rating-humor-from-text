@@ -46,7 +46,7 @@ We have used the following 3rd party libraries in our code:
 
 ## Instructions
 
-* To run this code on Google Colab:
+To run this code on Google Colab:
 
 1. Download the repository as a zip file.
 2. Extract the zip to get the project folder.
