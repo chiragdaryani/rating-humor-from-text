@@ -18,3 +18,39 @@ There are about 5,000 distinct news headlines, each having 3 edited versions, th
 The training data can be found in the file [train.csv](train.csv), the dev dataset file is named [dev.csv](dev.csv), and the test data with truth labels can be found in the file [truth_task_1.csv](truth_task_1.csv).
 
 This complete dataset for the task can be downloaded from [this website](https://cs.rochester.edu/u/nhossain/humicroedit.html). 
+
+## Code Files
+
+* `Models_bow_features.ipynb` : All Machine learning models built on Bag of Words (BoW) features.
+
+* `Models_tfidf_features.ipynb` : All Machine learning models built on TF-IDF features.
+
+* `Models_word2vec_features.ipynb` : All Machine learning models built on Word2vec features.
+
+**All the jupyter notebooks mentioned above were created on Google Colab.**
+
+
+## Dependencies
+
+We have used the following 3rd party libraries in our code:
+
+* `numpy`
+* `pandas`
+* `scikit-learn`
+* `matplotlib`
+* `seaborn`
+* `nltk`
+* `gensim 4.1.2`
+* `xgboost`
+* `scipy`
+
+
+## Instructions
+
+* To run this code on Google Colab:
+
+1. Download the repository as a zip file.
+2. Extract the zip to get the project folder.
+3. Upload the 3 ipynb files to google colab
+4. Upload the dataset to your google drive in a folder called "dataset"
+5. Execute the notebook cell by cell.
